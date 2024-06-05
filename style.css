@@ -1,0 +1,26 @@
+h2{
+    color: rgb(255, 4, 121);
+}
+
+body{
+    background-color: blueviolet;
+    color: azure;
+    font-family: roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px slateblue;
+}
+
+footer{
+    border-top: 1px violet;
+}
+
+#nome-usuarop{
+    font-weight: bold;
+}
+
+.texto-ingles{
+    font-style: italic;
+}
